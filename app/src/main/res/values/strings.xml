@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="button_text">Text</string>
+    <string name="button_image">Image</string>
+    <string name="button_web">Web</string>
+    <string name="button_toast">Toast</string>
+    <string name="button_dialog">Dialog</string>
+    <string name="lblTxt">I am Mubarek Shafi and this is my last quarter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_information_aboutme">information_aboutme</string>
+    <string name="title_activity_my_image">myImage</string>
+</resources>
